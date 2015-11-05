@@ -7,7 +7,9 @@ _________________
 
 - [Baubles](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-1-1-0-updated-2015-3-2)
 - [Iron Chest](http://minecraft.curseforge.com/projects/iron-chests)
+- [ProjectE](http://minecraft.curseforge.com/mc-mods/226410-projecte)
 - [Smart Moving](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1274224-smart-moving)
 - [Thaumcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130-thaumcraft-5-0-2-updated-2015-11-3)
+- [Thaumic Tinkerer](http://minecraft.curseforge.com/projects/thaumic-tinkerer)
 
 The 1.8 pack is new and this page will be updated as support is added.
