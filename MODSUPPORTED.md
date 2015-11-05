@@ -6,6 +6,7 @@ Faithful32-1.8 Modded Edition
 _________________
 
 - [Baubles](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-1-1-0-updated-2015-3-2)
+- [Capsule](http://minecraft.curseforge.com/projects/capsule)
 - [Iron Chest](http://minecraft.curseforge.com/projects/iron-chests)
 - [ProjectE](http://minecraft.curseforge.com/mc-mods/226410-projecte)
 - [Smart Moving](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1274224-smart-moving)
