@@ -5,6 +5,7 @@ Faithful32-1.8 Modded Edition
 **_This is the list with the mod currently supported from this resource pack._**
 _________________
 
+- [Baubles](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-1-1-0-updated-2015-3-2)
 - [Iron Chest](http://minecraft.curseforge.com/projects/iron-chests)
 - [Smart Moving](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1274224-smart-moving)
 - [Thaumcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130-thaumcraft-5-0-2-updated-2015-11-3)
