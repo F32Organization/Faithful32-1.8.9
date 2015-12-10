@@ -10,6 +10,7 @@ _________________
 - [Ender Zoo v1.1.0](http://minecraft.curseforge.com/projects/ender-zoo)
 - [Just Enough Items (JEI) v2.5.0] (http://minecraft.curseforge.com/projects/just-enough-items-jei)
 - [Iron Chest v6.0](http://minecraft.curseforge.com/projects/iron-chests)
+- [NotEnoughItems (NEI) v1.0.5] (http://minecraft.curseforge.com/projects/notenoughitems)
 - [ProjectE v1.1.1](http://minecraft.curseforge.com/mc-mods/226410-projecte)
 - [Smart Moving v16.2](http://minecraft.curseforge.com/projects/smart-moving)
 - [Thaumcraft v5.0.3](http://minecraft.curseforge.com/projects/thaumcraft)
