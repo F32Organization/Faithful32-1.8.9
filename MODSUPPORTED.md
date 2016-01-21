@@ -17,6 +17,7 @@ _________________
 - [NotEnoughItems (NEI) v1.0.5] (http://minecraft.curseforge.com/projects/notenoughitems)
 - [ProjectE v1.1.1](http://minecraft.curseforge.com/mc-mods/226410-projecte)
 - [Smart Moving v16.2](http://minecraft.curseforge.com/projects/smart-moving)
+- [Sodacan Utilities v2.0.3](http://minecraft.curseforge.com/projects/sodacan-utilities)
 - [Thaumcraft v5.0.3](http://minecraft.curseforge.com/projects/thaumcraft)
 - [Thaumic Palmistry v0.7](http://minecraft.curseforge.com/projects/tc5-addon-thaumic-palmistry)
 - [Thaumic Tinkerer v3.0](http://minecraft.curseforge.com/projects/thaumic-tinkerer)
