@@ -1,4 +1,4 @@
-Faithful32-1.8 Modded Edition
+Faithful32-1.8.9 Modded Edition
 =================
 
 **Looking for the** [vanilla pack](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254)?
